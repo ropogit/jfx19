@@ -1,0 +1,31 @@
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata
+.properties
+**/bin
+*.bak
+*.swp
+*~.nib
+.loadpath
+.recommenders
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.zip
+*.gz
+*.rar
+ 
+
+# IntelliJ
+.idea/
+*.iml
+
+#NetBeans
+**/nb-configuration.xml
+**/nbactions.xml
+**/nbproject/
+
